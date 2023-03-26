@@ -5,4 +5,5 @@
 - [Packet cyclone](./forensics/forensics_packet_cyclone/)
 
 ## Reverse
+- [Shattered tablet](./reverse/rev_shattered_tablet/)
 - [CShells](./reverse/rev_cshells/)
